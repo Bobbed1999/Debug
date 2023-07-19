@@ -8,3 +8,8 @@ search: shell.windows
 select : Command Prompt
 
 use: ctrl+' open the prompt 
+
+
+##### conda 
+
+conda list --export > requirements.txt
